@@ -1,7 +1,5 @@
 # Parallax-Website
-This is a Parallax website project that demonstrates the use of HTML and CSS to create a scrolling effect in web design
-Parallax Website
-This is a Parallax website project that demonstrates the use of HTML and CSS to create a scrolling effect in web design.
+This is a Parallax website project that demonstrates the use of HTML and CSS to create a scrolling effect in web design. This project was created as a learning exercise to practice web development skills and showcase proficiency in front-end development using HTML, CSS
 
 # Features
 The website has a simple yet elegant design that utilizes the parallax effect to create a visually appealing scrolling experience.
