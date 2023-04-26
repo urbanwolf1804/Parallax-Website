@@ -23,17 +23,17 @@ body, html{
 }
 
 .pimg1{
-  background-image:url('/Projects/Parallax_Site/image1.jpg');
+  background-image:url('https://c4.wallpaperflare.com/wallpaper/410/867/750/vector-forest-sunset-forest-sunset-forest-wallpaper-preview.jpg');
   min-height:100%;
 }
 
 .pimg2{
-  background-image:url('/Projects/Parallax_Site/image2.jpg');
+  background-image:url('https://c4.wallpaperflare.com/wallpaper/929/282/382/horizon-minimalism-illustration-artwork-wallpaper-preview.jpg');
   min-height:400px;
 }
 
 .pimg3{
-  background-image:url('/Projects/Parallax_Site/image3.jpg');
+  background-image:url('https://c4.wallpaperflare.com/wallpaper/760/955/638/artwork-landscape-sky-mountains-wallpaper-preview.jpg');
   min-height:400px;
 }
 
